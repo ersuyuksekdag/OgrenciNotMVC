@@ -1,0 +1,122 @@
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.dll.config
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.pdb
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Antlr3.Runtime.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Newtonsoft.Json.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Owin.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Razor.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Razor.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\WebGrease.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Razor.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Razor.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Antlr3.Runtime.pdb
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Newtonsoft.Json.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.csprojResolveAssemblyReference.cache
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.dll
+c:\users\ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.pdb
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.dll
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.xml
+C:\Users\Ersu\documents\visual studio 2013\Projects\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.dll.config
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\OgrenciNotMvc.pdb
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Antlr3.Runtime.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Newtonsoft.Json.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Owin.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Razor.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\WebGrease.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Razor.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Antlr3.Runtime.pdb
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Newtonsoft.Json.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.csprojResolveAssemblyReference.cache
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.dll
+C:\Users\Ersu\Desktop\OgrenciNotMvc\OgrenciNotMvc\obj\Debug\OgrenciNotMvc.pdb
